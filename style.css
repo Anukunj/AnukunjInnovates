@@ -41,7 +41,7 @@ header {
     width: 100%;
     padding: 2rem 9%;
     background: var(--bg-color);
-    background: transparent;
+    /* background: transparent; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -836,7 +836,7 @@ section.active {
     }
 
     section {
-        padding: 10rem 4% 2rem;
+        padding: 16.2rem 4% 2rem;
     }
 }
 
